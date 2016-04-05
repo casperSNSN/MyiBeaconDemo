@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "aeca0cf2-245a-8744-a907-a6122e4c93f9++8337",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "aeca0cf2-245a-8744-a907-a6122e4c93f9++8337" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "aeca0cf2-245a-8744-a907-a6122e4c93f9++8337" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A61412CE-5E56-4C01-B58C-D7F21C608964",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "aeca0cf2-245a-8744-a907-a6122e4c93f9++8337" : "BrightBeacon\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyiBeaconDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyiBeaconDemo\/MyiBeaconDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/172.16.250.94\/svn\/Backup",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "aeca0cf2-245a-8744-a907-a6122e4c93f9++8337"
+    }
+  ]
+}
